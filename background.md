@@ -7,4 +7,4 @@ I'm pretty disgusted with both the Democrats and Republicans.  They should prese
 
 Unfortunately the two parties are currently both engaged in pandering populism.  There is no meaningful attempt to balance budgets or govern effectively.
 
-I'm giving up on saying I'm a Democrat.  The Builder's Party is my attempt to reason through what I would like to see.
+I'm giving up on saying I'm a Democrat.  The Builders Party is my attempt to reason through what I would like to see.

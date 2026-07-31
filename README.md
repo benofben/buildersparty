@@ -1,34 +1,50 @@
 # The Builders Party
 
+![image](mascot.png)
+
 ## Overview
 
-Fundamentally people create.  We are at our best when we are building and improving the environments around ourselves.  The USA was founded with the idea of enabling yeoman farmers to own farms, determining their destiny and leading productive, useful lives.  Since then, we’ve grown from an agrarian society to one where a single farmer can feed 300 people.  Those incredibly productive farmers, the backbone of our society, have enabled the majority of us to engage in ever more complex and specialized endeavours.
+Fundamentally people create.  We are at our best when we are building and improving the environment around ourselves.  The USA was founded with the idea of enabling yeoman farmers to own farms, determining their destiny and leading productive, useful lives.  Since then, we’ve grown from an agrarian society to one where a single farmer can feed 300 people.  Those incredibly productive farmers, the backbone of our society, have enabled the majority of us to engage in ever more complex and specialized endeavours.
+
+## Infrastructure
+
+A core tenant of the Builders Party is that building is what people like to do.  Government exists to help them build, bettering their own lives and the lives of those around them.  It is the role of government to provide physical infrastructure that makes the pursuit of life, liberty and happiness possible.
+
+Our government should provide high quality road and rail.  It should help create a power grid that provides abundant and inexpenive energy.
+  
+## Education
+
+Public education enables success.  High quality public education should be freely available to all, running K-12.  Public universities should offer low cost educations subsidized by government.  Admission should be available to all who desire such an education.
+
+Education should focus on learning fundamental objective facts and vigorously debating subjective opinions.  No idea should unpseakable in an educational context.  Freedom of speech is paramount in our society and fundamental to achieving an education.
+
+## Fiscal Responsibility
+
+Builders are responsible.  They aim to make lasting impact in the physical world.  As such they are fiscally responsible.  Builders balance budgets.  They invest in positive sum infrastructure.
+
+Builders loathe overhead.  Administrative layers that do not physically create are anathema to the builder.  They run lean and shallow organizations.
+
+Builders are long term greedy.  They pass the marshmallow test with flying colors, thinking how their capital can create maximum value for them and society as a whole.
+
+The responsibility to the tax payer is sacred.  The tax payer has entrusted the result of their labor to government.  Wasting it is wasting the very life of the public.
+
+## Military
+
+A military is a regretable neccesity.  Builders are fundamentally pacifists.  We hate to destroy as increasing entropy is antithetical to life itself.  Yet, sometimes there is no other path.  We fight only when all other avenues have been exhausted.
+
+## Immigration
+
+The USA is a country of immigrants.  We are made better by a diversity of opinions, vigorously interacted with each other to produce an outcome that is more than the sum of its parts.
+
+Builders welcome immigrants who come to the USA to build.  Immigration to the USA is a decision to accept enlightment values and be part the great melting pot of American history.
+
+## Trade
+
+Trade is a positive sum game.  Any trade makes all participants involved better off.  As such, Builders are against trade restrictions.
 
 ## Mascot
 
 The mascot of the Builders Party is a busy beaver with a welding kit standing in front of the Stars and Stripes.  The Builders Party is plural, not possessive as we are a party made up of builders rather than a party belonging to builders.
-
-## Infrastructure
-
-A core tenant of the Builders Party is that building is what people like to do.  Government exists to help them build, bettering their own lives and the lives of those around them.  
-  
-## Education
-Asd
-
-## Military
-Asd
-
-## Immigration
-Asd
-
-## Trade
-asd
-
-## Guns
-asd
-
-## An Olympics for the Mind
-asd
 
 ## Inspiration
 
@@ -44,3 +60,4 @@ asd
 * 1989 - [Farewell Address to the Nation by Ronald Reagan](https://www.reaganlibrary.gov/archives/speech/farewell-address-nation)
 * 2017 - [The Once and Future Liberal by Mark Lila](https://www.amazon.com/dp/0062697439)
 * 2023 - [The Techno-Optimist Manifesto by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/)
+* 2025 - [How Countries go Broke by Ray Dalio](https://www.amazon.com/dp/1501124064)

@@ -11,12 +11,12 @@ Fundamentally people create.  We are at our best when we are building and improv
 A core tenant of the Builders Party is that building is what people like to do.  Government exists to help them build, bettering their own lives and the lives of those around them.  It is the role of government to provide physical infrastructure that makes the pursuit of life, liberty and happiness possible.
 
 Our government should provide high quality road and rail.  It should help create a power grid that provides abundant and inexpenive energy.
-  
+
 ## Education
 
 Public education enables success.  High quality public education should be freely available to all, running K-12.  Public universities should offer low cost educations subsidized by government.  Admission should be available to all who desire such an education.
 
-Education should focus on learning fundamental objective facts and vigorously debating subjective opinions.  No idea should unpseakable in an educational context.  Freedom of speech is paramount in our society and fundamental to achieving an education.
+Education should focus on learning fundamental objective facts and vigorously debating subjective opinions.  Where the line might be between those two is itself a matter to debate.  No idea should unpseakable in an educational context.  Freedom of speech is paramount in our society and fundamental to achieving an education.
 
 ## Fiscal Responsibility
 

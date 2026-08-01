@@ -14,6 +14,8 @@ Our government should provide high quality infrastructure.  That includes road a
 
 Wherever possible we minimize regulation to make technological innovation possible and building low cost.  Builders work to streamline building codes and eliminate regulatory fees wherever possible.  Builders are interested in lowering the cost of housing by reducing the cost and overhead in construction.
 
+Builders think we probably overrotated on software during the last four decades.  The next decades provide an incredible opportunity to make the real world a more wonderous and pleasant place.
+
 ## Education
 
 Public education enables success.  High quality public education should be freely available to all, running K-12.  Public universities should offer low cost educations subsidized by government.  Admission should be available to all who desire such an education.

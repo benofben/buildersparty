@@ -26,6 +26,8 @@ High quality public education should be freely available to all, running K-12.  
 
 Education should focus on learning fundamental objective facts and vigorously debating subjective opinions.  Where the line might be between those two is itself a matter to debate.  No idea should unpseakable in an educational context.  Freedom of speech is paramount in our society and fundamental to achieving an education.
 
+Technical discliplines must be coupled with the liberal arts.  To quote Heinlein, "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
+
 ## Fiscal Responsibility
 
 Builders are responsible.  They aim to make lasting impact in the physical world.  As such they are fiscally responsible.  Builders balance budgets.  They invest in positive sum infrastructure.

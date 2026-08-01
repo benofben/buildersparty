@@ -52,6 +52,10 @@ Individuals should have great freedom when their actions only impact themselves.
 
 A military is a regretable neccesity.  Builders are fundamentally pacifists.  We hate to destroy as increasing entropy is antithetical to life itself.  Yet, sometimes there is no other path.  We fight only when all other avenues have been exhausted.
 
+## Equality
+
+Thomas Jefferson wrote that "all men are created equal."  The history of our nation has been a rise to realizing that ideal with incremental accomplishments along the way.  A builder judges not by the color of skin but by the content of character as exhibited through what one builds.
+
 ## Immigration
 
 The USA is a country of immigrants.  We are made better by a diversity of opinions, vigorously interacted with each other to produce an outcome that is more than the sum of its parts.
@@ -79,6 +83,7 @@ The mascot of the Builders Party is a busy beaver with a welding kit standing in
 * 1963 - [I have a dream by Martin Luther King Jr](https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety)
 * 1964 - [Great Society Speech by Lyndon B Johnson](https://teachingamericanhistory.org/document/great-society-speech-2/)
 * 1970 - [Jonathan Livingston Seagull by Richard Bach](https://www.amazon.com/dp/0743278909)
+* 1976 - [War by Bob Marley](https://www.youtube.com/watch?v=4XHEPoMNP0I)
 * 1989 - [Farewell Address to the Nation by Ronald Reagan](https://www.reaganlibrary.gov/archives/speech/farewell-address-nation)
 * 2017 - [The Once and Future Liberal by Mark Lila](https://www.amazon.com/dp/0062697439)
 * 2023 - [The Techno-Optimist Manifesto by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/)

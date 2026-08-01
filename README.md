@@ -8,7 +8,7 @@ Fundamentally people create.  We are at our best when we are building and improv
 
 ## Infrastructure
 
-A core tenant of the Builders Party is that building is what people like to do.  Government exists to help them build, bettering their own lives and the lives of those around them.  It is the role of government to provide physical infrastructure that makes the pursuit of life, liberty and happiness possible.
+A core tenant of the Builders Party is that building is what people like to do.  Government exists to help them build, bettering their own lives and the lives of those around them.  It is a role of government to provide physical infrastructure that makes the pursuit of life, liberty and happiness possible.
 
 Our government should provide high quality infrastructure.  That includes road and rail.  It should help create a power grid that provides abundant and inexpenive energy.  Anywhere a capital investment is too large for the private sector but presents a positive return to the public, the government should step in.
 

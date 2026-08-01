@@ -56,7 +56,7 @@ A military is a regretable neccesity.  Builders are fundamentally pacifists.  We
 
 The USA is a country of immigrants.  We are made better by a diversity of opinions, vigorously interacted with each other to produce an outcome that is more than the sum of its parts.
 
-Builders welcome immigrants who come to the USA to build.  Immigration to the USA is a decision to accept enlightment values and be part the great melting pot of American history.
+Builders welcome immigrants who come to the USA to build.  Immigration to the USA is a decision to accept enlightment values and be part the great melting pot of American history, living in a shining city on a hill.
 
 ## Trade
 

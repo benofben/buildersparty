@@ -42,7 +42,7 @@ The responsibility to the tax payer is sacred.  The tax payer has entrusted the 
 
 ## Public Land
 
-Public land exists for the public to use.  Parks should be open to every citizen.  We need to fix roads and reopen trailheads in our National Parks and National Forests.  
+Public land exists for the public to use.  Parks should be open to every citizen.  We need to fix roads and reopen trailheads in our National Parks and National Forests.  We should open areas currently inaccessibly to public use.
 
 We need pragmatic approaches to forestry that produce the timber we need to build while protecting wilderness areas for recreation.  We need new forestry practices that reverse the fire hazards accumulated over the last century.
 

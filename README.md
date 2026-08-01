@@ -40,6 +40,10 @@ Builders are long term greedy.  They pass the marshmallow test with flying color
 
 The responsibility to the tax payer is sacred.  The tax payer has entrusted the result of their labor to government.  Wasting it is wasting the very life of the public.
 
+## Environmentalism
+
+It is a role of government to create laws that resolve externalities in environment conditions.  We have had enormous success over the last century with that approach, resolving lead, DDT and ozone issues to name a few.
+
 ## Public Land
 
 Public land exists for the public to use.  Parks should be open to every citizen.  We need to fix roads and reopen trailheads in our National Parks and National Forests.  We should open areas currently inaccessibly to public use.
@@ -81,6 +85,7 @@ The mascot of the Builders Party is a busy beaver with a welding kit standing in
 * 1945 - [The Open Society and its Enemies by Karl Popper](https://www.amazon.com/dp/0691158134)
 * 1957 - [The Deep Range by Arthur C Clarke](https://www.amazon.com/dp/055328925X)
 * 1961 - [Farewell Address by Dwight Eisenhower](https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address)
+* 1962 - [Silent Spring by Rachel Carson](https://www.amazon.com/dp/0618249060)
 * 1962 - [We choose to go to the moon by John F Kennedy](https://www.rice.edu/jfk-speech)
 * 1963 - [I have a dream by Martin Luther King Jr](https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety)
 * 1964 - [Great Society Speech by Lyndon B Johnson](https://teachingamericanhistory.org/document/great-society-speech-2/)

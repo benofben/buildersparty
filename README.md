@@ -6,7 +6,7 @@
 
 Fundamentally people create.  We are at our best when we are building and improving the environment around ourselves.  The USA was founded with the idea of enabling yeoman farmers to own farms, determining their destiny and leading productive, useful lives.  Since then, we’ve grown from an agrarian society to one where a single farmer can feed 300 people.  Those incredibly productive farmers, the backbone of our society, have enabled the majority of us to engage in ever more complex and specialized endeavours.
 
-Builders believe that life is a postive sum game.  We look to others not with jealousy but admiration, seeking to learn what they know.
+Builders believe that life is a postive sum game.  We look to others not with jealousy but admiration, seeking to learn what they know.  We do not take from one to give to another.  Instead we contribute for the benefit of all.
 
 ## Infrastructure
 

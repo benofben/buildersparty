@@ -10,7 +10,7 @@ Fundamentally people create.  We are at our best when we are building and improv
 
 A core tenant of the Builders Party is that building is what people like to do.  Government exists to help them build, bettering their own lives and the lives of those around them.  It is the role of government to provide physical infrastructure that makes the pursuit of life, liberty and happiness possible.
 
-Our government should provide high quality infrastructure.  That includes road and rail.  It should help create a power grid that provides abundant and inexpenive energy.  Anywhere a capital investment is too large for the private sector but presents great value to the public, the government should step in.
+Our government should provide high quality infrastructure.  That includes road and rail.  It should help create a power grid that provides abundant and inexpenive energy.  Anywhere a capital investment is too large for the private sector but presents a positive return to the public, the government should step in.
 
 As a nation, we should be amitious, exploring what we can do as we expand the energy available.  Can we build a space elevator?  Can we desalinate the Salton Sea?  Is the technology finally available to build flying cars?
 
@@ -33,6 +33,16 @@ Builders loathe overhead.  Administrative layers that do not physically create a
 Builders are long term greedy.  They pass the marshmallow test with flying colors, thinking how their capital can create maximum value for them and society as a whole.
 
 The responsibility to the tax payer is sacred.  The tax payer has entrusted the result of their labor to government.  Wasting it is wasting the very life of the public.
+
+## Public Land
+
+Public land exists for the public to use.  Parks should be open to every citizen.  We need to fix roads and reopen trailheads in our National Parks and National Forests.  
+
+We need pragmatic approaches to forestry that produce the timber we need to build while protecting wilderness areas for recreation.  We need new forestry practices that reverse the fire hazards accumulated over the last century.
+
+## Personal Responsibility
+
+Individuals should have great freedom when their actions only impact themselves.  However, activities that adversely impact the public, damaging the commons cannot be permitted.
 
 ## Military
 

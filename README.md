@@ -10,7 +10,9 @@ Fundamentally people create.  We are at our best when we are building and improv
 
 A core tenant of the Builders Party is that building is what people like to do.  Government exists to help them build, bettering their own lives and the lives of those around them.  It is the role of government to provide physical infrastructure that makes the pursuit of life, liberty and happiness possible.
 
-Our government should provide high quality infrastructure.  That includes road and rail.  It should help create a power grid that provides abundant and inexpenive energy.  We should be amitious, exploring what we can do as we expand the energy available.  Can we build a space elevator?  Can we desalinate the Salton Sea?
+Our government should provide high quality infrastructure.  That includes road and rail.  It should help create a power grid that provides abundant and inexpenive energy.  We should be amitious, exploring what we can do as we expand the energy available.  Can we build a space elevator?  Can we desalinate the Salton Sea?  Is the technology finally available to build flying cars?
+
+Wherever possible we minimize regulation to make technological innovation possible and building low cost.  Builders work to streamline building codes and eliminate regulatory fees wherever possible.  Builders are interested in lowering the cost of housing by reducing the cost and overhead in construction.
 
 ## Education
 

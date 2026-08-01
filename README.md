@@ -73,6 +73,7 @@ The mascot of the Builders Party is a busy beaver with a welding kit standing in
 * 1790 - [The Autobiography of Benjamin Franklin](https://www.amazon.com/Autobiography-Benjamin-Franklin-Selections-Writings/dp/0679641033)
 * 1944 - [What is Life, Erwin Shrodinger](https://www.amazon.com/dp/1107604664)
 * 1945 - [The Open Society and its Enemies by Karl Popper](https://www.amazon.com/dp/0691158134)
+* 1957 - [The Deep Range by Arthur C Clarke](https://www.amazon.com/dp/055328925X)
 * 1961 - [Farewell Address by Dwight Eisenhower](https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address)
 * 1962 - [We choose to go to the moon by John F Kennedy](https://www.rice.edu/jfk-speech)
 * 1963 - [I have a dream by Martin Luther King Jr](https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety)
